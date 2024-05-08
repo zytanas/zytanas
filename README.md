@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Julia</h1>
-<h3 align="left">A passionate frontend developer from Philippines</h3>
+<h1 align="left">Hi, I'm Julia 👋 </h1>
+<h4 align="left">Throughout my academic and professional journey, I have honed my skills in responsive design, UI/UX principles, and front-end frameworks such as React. With a keen eye for detail and a commitment to delivering high-quality code, I thrive in collaborative environments where I can contribute innovative solutions to complex problems. I am dedicated to staying updated with the latest trends and technologies in front-end development to ensure that my work meets the evolving needs of users and businesses alike.</h4>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zytanas&label=Profile%20views&color=0e75b6&style=flat" alt="zytanas" /> </p>
 
@@ -10,6 +10,9 @@
 - 📫 How to reach me **juliazyrene23@gmail.com**
 
 - ✨ Pronouns **She/They**
+  
+- 🎓 I hold a degree in **Bachelor of Science in Information Technology**
+-  📍 **Philippines**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
