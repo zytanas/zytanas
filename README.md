@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/zytanas"><img src="https://api.daily.dev/devcards/v2/iBE7mGzDFl3im6Z4TMBuR.png?r=zq9&type=wide" width="652" alt="Julia Zyrene Almoite's Dev Card"/></a>
 <h1 align="left">Hi, I'm Julia 👋 </h1>
 <h4 align="left">Throughout my academic and professional journey, I have honed my skills in responsive design, UI/UX principles, and front-end frameworks such as React. With a keen eye for detail and a commitment to delivering high-quality code, I thrive in collaborative environments where I can contribute innovative solutions to complex problems. I am dedicated to staying updated with the latest trends and technologies in front-end development to ensure that my work meets the evolving needs of users and businesses alike.</h4>
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
@@ -26,7 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zytanas&show_icons=true&locale=en&layout=compact" alt="zytanas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zytanas&show_icons=true&locale=en" alt="zytanas" /></p>
+<p>&nbsp;<img align="center" width="340"  src="https://github-readme-stats.vercel.app/api?username=zytanas&show_icons=true&locale=en" alt="zytanas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zytanas&" alt="zytanas" /></p>
+<p><img align="left" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=zytanas&" alt="zytanas" /></p>
 
