@@ -28,7 +28,7 @@
 
 <p>&nbsp;<img align="center" width="390"  src="https://github-readme-stats.vercel.app/api?username=zytanas&show_icons=true&locale=en" alt="zytanas" /></p>
 
-<p><img align="left" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=zytanas&" alt="zytanas" /></p>
+<p><img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=zytanas&" alt="zytanas" /></p>
 
-<a href="https://app.daily.dev/zytanas"><img src="https://api.daily.dev/devcards/v2/iBE7mGzDFl3im6Z4TMBuR.png?type=wide&r=4xr" width="450" alt="Julia's Dev Card"/></a>
+<a href="https://app.daily.dev/zytanas"><img src="https://api.daily.dev/devcards/v2/iBE7mGzDFl3im6Z4TMBuR.png?type=wide&r=4xr" width="400" alt="Julia's Dev Card"/></a>
 
